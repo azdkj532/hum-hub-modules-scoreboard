@@ -1,0 +1,11 @@
+{
+    "id": "scoreboard",
+    "name": "Scoreboard",
+    "description": "scoreboard for online hours",
+    "keywords": ["score", "login"],
+    "version":"0.1",
+
+    "humhub": {
+        "minVersion": "0.20"
+    }
+}
