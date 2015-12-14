@@ -3,7 +3,6 @@
 namespace humhub/modules/scoreboard;
 
 use Yii;
-use humhub\modules\user\models\User;
 use humhub\components\ActiveRecord;
 
 class Score extends ActiveRecord

@@ -1,5 +1,5 @@
 <?php
-namespace humhub/modules/scoreboard;
+namespace humhub\modules\scoreboard;
 
 use Yii;
 

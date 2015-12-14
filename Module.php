@@ -1,6 +1,8 @@
 <?
 namespace humhub\modules\scoreboard;
 
-class Module extends \humhub\components\Module
+use humhub\modules\scoreboard\models\Score;
+
+class Module extends \humhub\modules\content\components\ContentContainerModule
 {
 }
