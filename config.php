@@ -1,4 +1,5 @@
 <?php
+namespace humhub\modules\scoreboard;
 
 use humhub\widgets\TopMenu;
 use humhub\modules\user\models\User;
