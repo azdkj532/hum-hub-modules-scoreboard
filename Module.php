@@ -1,4 +1,4 @@
-<?
+<?php
 namespace humhub\modules\scoreboard;
 
 use humhub\modules\scoreboard\models\Score;
